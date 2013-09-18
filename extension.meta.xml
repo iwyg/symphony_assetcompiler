@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="assets" status="experimental" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="symphony_assetcompiler" status="experimental" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Assets</name>
 	<description>Asset compiler</description>
 	<types>
