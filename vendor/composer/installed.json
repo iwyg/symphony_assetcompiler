@@ -1,0 +1,85 @@
+[
+    {
+        "name": "matthiasmullie/minify",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/matthiasmullie/minify.git",
+            "reference": "1cd2718da4be06e487e526f8ea95f71e542a68cd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/matthiasmullie/minify/zipball/1cd2718da4be06e487e526f8ea95f71e542a68cd",
+            "reference": "1cd2718da4be06e487e526f8ea95f71e542a68cd",
+            "shasum": ""
+        },
+        "require": {
+            "ext-pcre": "*",
+            "php": ">=5.3.0"
+        },
+        "time": "2013-04-22 08:19:35",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                ""
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Matthias Mullie",
+                "email": "minify@mullie.eu",
+                "role": "Developer"
+            }
+        ],
+        "description": "CSS & JS minifier",
+        "homepage": "https://github.com/matthiasmullie/minify"
+    },
+    {
+        "name": "nick4fake/jsmin",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/nick4fake/JsMin.git",
+            "reference": "5136ef1e1e56ffb14622bb9d93362d930ff61690"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/nick4fake/JsMin/zipball/5136ef1e1e56ffb14622bb9d93362d930ff61690",
+            "reference": "5136ef1e1e56ffb14622bb9d93362d930ff61690",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2012-12-17 09:42:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "JsMin": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Douglas Crockford",
+                "homepage": "http://www.crockford.com"
+            },
+            {
+                "name": "Bogdan Yurov",
+                "email": "bogdan@yurov.me"
+            }
+        ],
+        "description": "Library for minifying JavaScript files"
+    }
+]

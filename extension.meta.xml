@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="assets" status="experimental" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Assets</name>
+	<description>Asset compiler</description>
+	<types>
+		<type>Frontend</type>
+	</types>
+	<authors>
+		<author>
+			<name github="iwyg">Thomas Appel</name>
+			<website>http://thomas-appel.com</website>
+			<email>mail@thomas-appel.com</email>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1.9 rv2" date="2013-05-14" min="2.3.0" max="2.3.x">
+			- this is not released yet stupid
+		</release>
+	</releases>
+</extension>
