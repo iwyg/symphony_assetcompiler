@@ -1,0 +1,6 @@
+[submodule "vendor/nick4fake/jsmin"]
+	path = vendor/nick4fake/jsmin
+	url = https://github.com/nick4fake/JsMin
+[submodule "vendor/matthiasmullie/minify"]
+	path = vendor/matthiasmullie/minify
+	url = https://github.com/matthiasmullie/minify

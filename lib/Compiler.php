@@ -132,7 +132,7 @@ class Compiler
                 break;
         }
 
-        $this->replaceDomScripts($type, $file);
+        $this->replaceDomScripts($type, $this->getFileUlr($file));
     }
 
     /**
