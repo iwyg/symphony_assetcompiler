@@ -1,1 +1,1 @@
-## Configurationless js and css compile for Symphony CMS
+## Configurationless js and css compiler for Symphony CMS
